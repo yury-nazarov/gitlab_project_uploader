@@ -1,0 +1,6 @@
+LOG_LEVEL="INFO"
+FS_LOCAL_PATH="/filesystem/local/path/to/folder/with/repos/"
+GL_SERVER="gitlab.com"
+GL_PRIVATE_TOKEN="XXXXXXXXXXXXXXXX12345"
+GL_GROUP_PATH="group_01/group_01/"
+GL_GROUP_ID="12345"
